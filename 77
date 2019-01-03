@@ -61,7 +61,7 @@ echo
 echo
 echo $red"##########################$green" WELCOME "$red###########################"
 echo
-figlet -f future "ALI ATTACKER" | lolcat
+figlet -f future "ANONYMOUS ALL INDONESIA" | lolcat
 echo
 echo $red"##########################$green" WELCOME "$red###########################"
 echo
